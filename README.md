@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-kin4
+- 👋 Hi, I’m Ali Jabbary
 - 👀 I’m interested in machine learning, data sciense and artificial inteligance.
 - 🌱 I’m currently learning advanced machine learning methods for data classifications and future predictions.
 - 💞️ I’m looking to collaborate on projects involving new ML techniques and predictions using neural networks.
