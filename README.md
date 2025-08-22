@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ali  
 
 🚀 **Senior Data Scientist | AI/ML Engineer | Web Developer | Professional Tutor**  
-🌍 Global Tutor – Empowering learners from Toronto to Tehran and beyond  
+🌍 Global Tutor – Empowering learners from Toronto to New York and beyond  
 🌐 [alijabbary.com](https://alijabbary.com) | 📧 [info@AliJabbary.com](mailto:info@AliJabbary.com)  
 
 ---
