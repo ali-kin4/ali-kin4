@@ -32,10 +32,21 @@ Through [AliJabbary.com](https://alijabbary.com), I work with students, professi
 
 I care about the part after the demo: whether another person can run the work, inspect it, understand the trade-offs, and trust the result.
 
+## Current release
+
+### [Evidence First Agents](https://github.com/ali-kin4/evidence-first-agents)
+
+A dependency-free Python CLI for reviewing the authority surfaces of AI-agent projects. It inventories repository instructions, Agent Skills, MCP configuration, declared tools, and approval boundaries—without calling a model, executing discovered commands, or contacting configured services.
+
+The first release includes deterministic JSON and Markdown reports, safe/ambiguous/unsafe fixtures, 33 tests, a documented threat model, and Windows/Linux CI across Python 3.11–3.13.
+
+[Explore the repository](https://github.com/ali-kin4/evidence-first-agents) · [Read the v0.1.0 release](https://github.com/ali-kin4/evidence-first-agents/releases/tag/v0.1.0)
+
 ## Selected work
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Evidence First Agents](https://github.com/ali-kin4/evidence-first-agents) | Static, deterministic checks for agent instructions, skills, MCP configuration, high-authority capabilities, and human-approval boundaries |
 | [Evidence First AI](https://github.com/ali-kin4/evidence-first-ai-project) | A tested validation toolkit that connects applied-AI claims to declared runs, baselines, artifacts, thresholds, and limitations |
 | [SkillGraph Tutor](https://github.com/ali-kin4/skillgraph-tutor) | An offline-first tutoring engine using concept graphs, knowledge tracing, forgetting-aware mastery, spaced repetition, and reproducible evaluation |
 | [PyQuest Interactive Tutor](https://github.com/ali-kin4/py-quest-interactive-tutor) | A zero-setup, browser-based Python learning environment with Pyodide execution and automated feedback |
