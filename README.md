@@ -36,6 +36,7 @@ I care about the part after the demo: whether another person can run the work, i
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Evidence First AI](https://github.com/ali-kin4/evidence-first-ai-project) | A tested validation toolkit that connects applied-AI claims to declared runs, baselines, artifacts, thresholds, and limitations |
 | [SkillGraph Tutor](https://github.com/ali-kin4/skillgraph-tutor) | An offline-first tutoring engine using concept graphs, knowledge tracing, forgetting-aware mastery, spaced repetition, and reproducible evaluation |
 | [PyQuest Interactive Tutor](https://github.com/ali-kin4/py-quest-interactive-tutor) | A zero-setup, browser-based Python learning environment with Pyodide execution and automated feedback |
 | [EduMaster](https://github.com/ali-kin4/edumaster-app) | A modern learning-platform interface for structured courses, practice, and learner progress |
