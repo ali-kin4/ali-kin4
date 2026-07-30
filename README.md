@@ -1,76 +1,62 @@
-# 👋 Hey, I'm Ali  
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ali Jabbary — Applied AI, scientific computing, and technical education" width="100%">
+</p>
 
-🚀 **Senior Data Scientist | AI/ML Engineer | Web Developer | Professional Tutor**  
-🌍 Global Tutor – Empowering learners from Toronto to New York and beyond  
-🌐 [alijabbary.com](https://alijabbary.com) | 📧 [info@AliJabbary.com](mailto:info@AliJabbary.com)  
+<p align="center">
+  <a href="https://alijabbary.com"><img src="https://img.shields.io/badge/Website-alijabbary.com-0F766E?style=flat-square" alt="AliJabbary.com"></a>
+  <a href="https://www.linkedin.com/in/ali-jabbary/"><img src="https://img.shields.io/badge/LinkedIn-Ali_Jabbary-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/alijabbary_"><img src="https://img.shields.io/badge/X-@alijabbary__-111827?style=flat-square&logo=x" alt="X"></a>
+  <a href="https://orcid.org/0000-0003-0573-6909"><img src="https://img.shields.io/badge/ORCID-0000--0003--0573--6909-A6CE39?style=flat-square&logo=orcid" alt="ORCID"></a>
+</p>
 
----
+## Hello, I'm Ali
 
-## 🔥 Why Work With Me?  
+I am a licensed Professional Engineer who builds practical **AI, machine-learning, scientific-computing, and learning systems**.
 
-I help **students, professionals, and businesses** go from **confused → confident → thriving** in **Data Science, AI, Programming, and Engineering**.  
+My work sits at the intersection of engineering depth and clear teaching: I develop auditable technical tools, translate difficult ideas into usable mental models, and help people move from tutorials to work they can explain and defend.
 
-✅ Learn complex subjects in **clear, step-by-step lessons**  
-✅ Get **real-world projects & portfolio pieces**  
-✅ Build **future-proof skills** in AI, Web Dev, and Finance  
-✅ Save time & energy with **personalized tutoring + mentorship**  
+Through [AliJabbary.com](https://alijabbary.com), I work with students, professionals, research teams, and organizations on:
 
-💡 Whether you're starting fresh or leveling up, I make the journey faster, practical, and actually fun.  
+- one-to-one Python, data science, machine-learning, statistics, and engineering education;
+- corporate technical training and focused upskilling;
+- AI automation, applied modelling, and scientific-software projects;
+- research implementation, verification, and reproducible computational workflows.
 
-👉 **Book your first session now at [alijabbary.com](https://alijabbary.com)**  
+**10+ years teaching · 500+ learners supported · students from beginner to PhD level**
 
----
+## How I work
 
-## ⚡ What I Do  
+| Learn | Build | Verify |
+| --- | --- | --- |
+| Clear explanations, deliberate practice, and projects matched to the learner | Useful software with documented decisions and maintainable foundations | Baselines, tests, reproducibility, and claims that stay inside the evidence |
 
-### 🎓 Tutoring & Mentorship
-- Python, Machine Learning, Data Science, AI  
-- C, C++, Java, PHP, MATLAB, VBA, SQL  
-- Engineering (Mechanical, Civil, Robotics, CAD, FEA/CFD)  
-- Business & Finance (Accounting, Project Management, Leadership)  
-- Career Coaching & Professional Training  
+I care about the part after the demo: whether another person can run the work, inspect it, understand the trade-offs, and trust the result.
 
-### 💻 Web Development
-- **Frontend**: React, Next.js, Vite, TypeScript  
-- **Backend**: Supabase, Node.js, Django, Flask  
-- **Database**: PostgreSQL, MySQL, Prisma ORM  
-- **Deployment**: Vercel, Docker, GitHub Actions  
-- **CMS & WordPress**: Elementor, Eduma theme, custom dashboards  
+## Selected work
 
-🛠️ Featured Projects:  
-- **Tutor Manager App** → Manage students, sessions, and payments seamlessly  
-- **Tutorvance.com** → Modern tutoring platform (WordPress + Elementor + Eduma)  
-- **AI Decision-Maker** → Routes tasks between reasoning vs non-reasoning AI models  
-- **Python Island** → Gamified coding learning experience  
+| Project | What it demonstrates |
+| --- | --- |
+| [SkillGraph Tutor](https://github.com/ali-kin4/skillgraph-tutor) | An offline-first tutoring engine using concept graphs, knowledge tracing, forgetting-aware mastery, spaced repetition, and reproducible evaluation |
+| [PyQuest Interactive Tutor](https://github.com/ali-kin4/py-quest-interactive-tutor) | A zero-setup, browser-based Python learning environment with Pyodide execution and automated feedback |
+| [EduMaster](https://github.com/ali-kin4/edumaster-app) | A modern learning-platform interface for structured courses, practice, and learner progress |
+| [AI Decision Router](https://github.com/ali-kin4/ai-decision-router) | An offline-testable framework for selecting models under quality, latency, and cost constraints |
+| [NeuroForge CFD](https://github.com/ali-kin4/neuroforge-cfd) | Physics-checked neural-operator research with uncertainty estimation, residual-driven correction, and reproducible experiments |
+| [DNS Manager](https://github.com/ali-kin4/DNSManager) | A shipped Windows desktop utility with DNS switching, benchmarking, diagnostics, and installer support |
 
----
+## Technical focus
 
-## 🛠️ Tech Toolbox  
+`Python` · `TypeScript` · `PyTorch` · `scikit-learn` · `Pandas` · `Scientific ML` · `CFD` · `React` · `Next.js` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
-**Languages:** Python, JavaScript, TypeScript, C, C++, Java, PHP, SQL, MATLAB  
-**Frameworks:** React, Next.js, Vite, Node.js, Django, Flask  
-**Data & AI:** TensorFlow, PyTorch, Pandas, Scikit-learn, Matplotlib  
-**DevOps:** GitHub, Docker, Vercel, Supabase  
-**Other Skills:** Mechanical Engineering (CAD, ANSYS, SolidWorks), Excel VBA Automation  
+Current interests include personalized learning systems, reliable AI workflows, uncertainty-aware modelling, scientific machine learning, and tools that make technical work easier to learn and audit.
 
----
+## Work with me
 
-## 📈 My Impact  
+- **Students and professionals:** build strong foundations, complete real projects, or prepare for advanced technical work.
+- **Organizations:** commission focused AI/data training, workflow automation, or technical prototyping.
+- **Researchers and engineers:** collaborate on computational modelling, reproducibility, verification, and scientific AI.
 
-- 🎯 **10+ years of teaching experience**  
-- 👨‍🎓 Taught **hundreds of students worldwide (PhD to beginners)**  
-- 📚 Delivered **custom learning paths for data science & AI careers**  
-- 🛠️ Built **apps, websites, and AI systems** trusted by professionals  
+Start at **[AliJabbary.com](https://alijabbary.com)** or email **[info@AliJabbary.com](mailto:info@AliJabbary.com)**.
 
----
-
-## 📬 Let’s Connect  
-
-🌐 [alijabbary.com](https://alijabbary.com) ← **Book sessions directly here**  
-💼 [LinkedIn](https://www.linkedin.com/in/ali-jabbary/)  
-📧 [info@AliJabbary.com](mailto:info@AliJabbary.com)  
-
----
-
-⭐ *Looking for a tutor, developer, or AI/ML consultant who gets things done? You’re in the right place.*  
-✨ Let’s build something incredible together.  
+<p align="center">
+  <sub>Useful work. Clear reasoning. Evidence before hype.</sub>
+</p>
