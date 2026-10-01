@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Ali Jabbary, P.Eng.</title>
+  <title id="title">Ali Jabbary, M.Sc.</title>
   <desc id="desc">Applied AI, scientific computing, and technical education</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -26,7 +26,7 @@
     <path d="M960 122 1088 122M1040 74 1012 170" stroke="#CFFAFE" stroke-opacity=".22" stroke-width="1.5"/>
   </g>
   <rect x="72" y="64" width="58" height="6" rx="3" fill="#5EEAD4"/>
-  <text x="72" y="137" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing=".3">Ali Jabbary, P.Eng.</text>
+  <text x="72" y="137" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing=".3">Ali Jabbary, M.Sc.</text>
   <text x="74" y="184" fill="#D6F5F1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1.1">APPLIED AI  ·  SCIENTIFIC COMPUTING  ·  TECHNICAL EDUCATION</text>
   <text x="74" y="232" fill="#9CCAC8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" letter-spacing=".8">AliJabbary.com</text>
 </svg>

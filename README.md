@@ -11,7 +11,7 @@
 
 ## Hello, I'm Ali
 
-I am a licensed Professional Engineer who builds practical **AI, machine-learning, scientific-computing, and learning systems**.
+I hold an M.Sc. in Mechanical Engineering and build practical **AI, machine-learning, scientific-computing, and learning systems**.
 
 My work sits at the intersection of engineering depth and clear teaching: I develop auditable technical tools, translate difficult ideas into usable mental models, and help people move from tutorials to work they can explain and defend.
 
